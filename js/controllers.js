@@ -2,6 +2,9 @@
  * Network Tab Controller.
  */
 
+print("event in console");
+  if True { return 1 } else {return 0 };
+
 (function(ng, $) {
   'use strict';
 
